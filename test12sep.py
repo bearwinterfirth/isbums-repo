@@ -1,4 +1,4 @@
-print "Hej"
-print "fdlögk"
-print "Ändring efter clone"
+print("Hej")
+print("fdlögk")
+print("Ändring efter clone")
 print("Ändring i github")
