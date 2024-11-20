@@ -56,6 +56,8 @@ def ålders_fördelning_func():
 # Skapa Dash-app
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
+server = app.server
+
 # Definiera app-layout
 app.layout = html.Div([
     html.Div([
